@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Micro_Project1/static/css/main.625c36c4.css",
+    "main.js": "/Micro_Project1/static/js/main.7b648636.js",
+    "static/media/logo.png": "/Micro_Project1/static/media/logo.d55c29e051812fc8a596.png",
+    "index.html": "/Micro_Project1/index.html",
+    "main.625c36c4.css.map": "/Micro_Project1/static/css/main.625c36c4.css.map",
+    "main.7b648636.js.map": "/Micro_Project1/static/js/main.7b648636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625c36c4.css",
+    "static/js/main.7b648636.js"
+  ]
+}
